@@ -1,11 +1,26 @@
-# Soft Skills Certificates
+# 📚 Soft Skills Certifications
 
-Add your LinkedIn Learning and other soft skills certificates here.
+Professional development certifications focused on communication, negotiation, and interpersonal effectiveness.
 
-**Topics:**
-- Leadership
-- Communication
-- Project Management
-- Teamwork & Collaboration
+---
 
-**Naming:** `YYYY-MM-DD_Course-Name.pdf`
+## Completed Courses
+
+### Negotiation Foundations
+*LinkedIn Learning*
+
+Core negotiation strategies and techniques for professional settings.
+
+---
+
+### How to Win Arguments
+*LinkedIn Learning*
+
+Effective argumentation and persuasion techniques for constructive discussions.
+
+---
+
+### Sales: Handling Objections
+*LinkedIn Learning*
+
+Strategies for addressing concerns and objections in professional interactions.

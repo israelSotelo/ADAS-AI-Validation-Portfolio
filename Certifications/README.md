@@ -1,34 +1,20 @@
 # 🎓 Certifications
 
-## Overview
-Professional certifications demonstrating continuous learning in both soft skills and technical expertise.
+Professional certifications demonstrating continuous learning and development in both interpersonal skills and technical expertise.
 
 ---
 
-## 📂 Structure
+## 📚 Soft Skills (3 certificates)
 
-### Soft Skills
-`soft-skills/` - LinkedIn Learning certificates
-- Leadership & team management
-- Communication & presentation
-- Project management
-- Emotional intelligence & collaboration
+- **Negotiation Foundations** - LinkedIn Learning
+- **How to Win Arguments** - LinkedIn Learning  
+- **Sales: Handling Objections** - LinkedIn Learning
 
-### Technical
-`technical/` - Technical certifications
-- AI/ML frameworks (TensorFlow, PyTorch, etc.)
-- ADAS & automotive systems
-- Programming languages & tools
+## 💻 Technical (2 certificates)
+
+- **Build AI Agents and Automate Workflows with n8n** - LinkedIn Learning
+- **Fundamentals of Agentic AI: Business Implications and Ethical Insights** - LinkedIn Learning
 
 ---
 
-## 📝 How to Add Certificates
-
-1. Download your certificate PDFs
-2. Name them: `YYYY-MM-DD_Course-Name.pdf`
-3. Place in the appropriate folder
-4. Update this README with a list if desired
-
----
-
-*Demonstrating commitment to continuous professional development*
+**Total Certifications**: 5
