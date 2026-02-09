@@ -53,8 +53,8 @@ I combine deep technical expertise in AI/ML with leadership experience in managi
 
 ## 📫 Contact
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Professional Email](#)
+- **LinkedIn**: [www.linkedin.com/in/israel-sotelo-rodriguez-092829138](#)
+- **Email**: [kei2202@hotmail.com](#)
 ---
 
 *Last updated: February 2026*
