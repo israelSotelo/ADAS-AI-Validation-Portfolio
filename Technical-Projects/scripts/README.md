@@ -1,14 +1,7 @@
-# Scripts
+# 🔧 Scripts
 
-Add your Python scripts and automation tools here.
+Python scripts and automation tools developed for various technical applications.
 
-**Examples:**
-- Utility scripts
-- Data processing pipelines
-- Automation tools
-- Custom solutions
+---
 
-**Tips:**
-- Include docstrings
-- Add usage examples
-- Document dependencies
+*Scripts will be added here as they are developed*
