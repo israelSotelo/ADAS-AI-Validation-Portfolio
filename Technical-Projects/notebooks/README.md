@@ -1,14 +1,18 @@
-# Notebooks
+# 📓 Notebooks
 
-Add your Google Colab notebooks and Jupyter notebooks here.
+AI/ML notebooks demonstrating practical applications in computer vision and deep learning.
 
-**Examples:**
-- Computer vision projects
-- Machine learning models
-- Deep learning applications
-- Data analysis
+---
 
-**Tips:**
-- Include description at the top of each notebook
-- Add Google Colab link for easy access
-- Document requirements
+## Projects
+
+### Portfolio AMD Detection VGG19
+**Computer Vision | Deep Learning**
+
+Age-related Macular Degeneration (AMD) detection using VGG19 architecture. Demonstrates medical image analysis and transfer learning techniques.
+
+**Technologies**: Python, TensorFlow/Keras, VGG19, Computer Vision
+
+---
+
+**Total Projects**: 1
