@@ -55,8 +55,6 @@ I combine deep technical expertise in AI/ML with leadership experience in managi
 
 - **LinkedIn**: [Your LinkedIn Profile](#)
 - **Email**: [Your Professional Email](#)
-- **GitHub**: [github.com/yourusername](#)
-
 ---
 
 *Last updated: February 2026*
